@@ -1,4 +1,4 @@
-document.addEventListener('click', () => {
+document.addEventListener('DOMContentLoaded', () => {
   const btn = document.querySelector('.header-navbar__btn');
   const list = document.querySelector('.header-navbar__list');
 
